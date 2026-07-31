@@ -2,7 +2,7 @@
  
 <p align="center">
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400">  
-</p> 
+</p>  
  
 <h3 align="center">🚀 My Machine Learning Journey</h3>
 
